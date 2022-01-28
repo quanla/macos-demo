@@ -20454,7 +20454,7 @@ For more info, visit https://reactjs.org/link/mock-scheduler`);
   // src/desktop/background/40.jpg
   var require__ = __commonJS({
     "src/desktop/background/40.jpg"(exports, module) {
-      module.exports = "/40-6NYMWZ35.jpg";
+      module.exports = "/macos-demo/40-6NYMWZ35.jpg";
     }
   });
 
@@ -27013,21 +27013,21 @@ For more info, visit https://reactjs.org/link/mock-scheduler`);
   // src/launchers/finder/finder-window/header-controls/chevron-left.webp
   var require_chevron_left = __commonJS({
     "src/launchers/finder/finder-window/header-controls/chevron-left.webp"(exports, module) {
-      module.exports = "/chevron-left-V36SDOWO.webp";
+      module.exports = "/macos-demo/chevron-left-V36SDOWO.webp";
     }
   });
 
   // src/launchers/finder/finder-window/header-controls/chevron-right.webp
   var require_chevron_right = __commonJS({
     "src/launchers/finder/finder-window/header-controls/chevron-right.webp"(exports, module) {
-      module.exports = "/chevron-right-54HL462P.webp";
+      module.exports = "/macos-demo/chevron-right-54HL462P.webp";
     }
   });
 
   // src/launchers/finder/256.webp
   var require__2 = __commonJS({
     "src/launchers/finder/256.webp"(exports, module) {
-      module.exports = "/256-2CKBVKAM.webp";
+      module.exports = "/macos-demo/256-2CKBVKAM.webp";
     }
   });
 
@@ -27235,7 +27235,7 @@ For more info, visit https://reactjs.org/link/mock-scheduler`);
   // src/launchers/calculator/256.webp
   var require__3 = __commonJS({
     "src/launchers/calculator/256.webp"(exports, module) {
-      module.exports = "/256-SCJYFHGG.webp";
+      module.exports = "/macos-demo/256-SCJYFHGG.webp";
     }
   });
 
